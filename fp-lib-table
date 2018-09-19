@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name chiral)(type KiCad)(uri ${KIPRJMOD}/chiral.pretty)(options "")(descr ""))
+)
